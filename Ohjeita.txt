@@ -1,0 +1,16 @@
+Liikkuminen:
+ 	
+-Voit liikkua haluamaasi suuntaan komennoilla: pohjoinen, itä, etelä, länsi.
+-Voit myös liikkua nuolinäppäimillä.
+-Voit poimia, käyttää tai pudottaa esineitä komennoilla esim. poimi kaukalopallo, tai käytä avain.
+
+Näin pääset pelin läpi:
+	
+1) Poimi huilu siirtymässä 4.
+2) Käytä huilua siirtymässä 9, jonka jälkeen saat pitkän kepin.
+3) Käytä pitkää keppiä paikassa 7, jonka jälkeen saat pitkän pätkän narua.
+4) Käytä keppiä ja narua paikassa 6, löydät rautalankaa, josta saat tehtyä koukun narun päähän. Nyt sinulla on onki.
+5) Käytä onki paikassa 2, onkeen tarttuu paperikääre, johon on kirjoitettu taikaloitsu.
+6) Käytä taikaloitsu paikassa 3, taikaloistsun voimasta ilmestyy miekka.
+7) Käytä miekka paikassa 4, saat avaimen.
+8) Käytä avain paikassa 6, PELI LÄPI!
